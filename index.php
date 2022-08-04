@@ -1,1 +1,1 @@
-<?php include_once("heatmap.html"); ?>
+<?php include_once("SEEmultiLayerKMean.html"); ?>
