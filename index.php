@@ -1,1 +1,1 @@
-<?php include_once("webAppPageDemo.html"); ?>
+<?php include_once("prediction_PredictedPrice.html"); ?>
