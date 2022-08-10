@@ -1,1 +1,1 @@
-<?php include_once("test3d.html"); ?>
+<?php include_once("prediction_PredictedPrice.html"); ?>
